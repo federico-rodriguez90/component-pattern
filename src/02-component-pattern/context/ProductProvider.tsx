@@ -1,5 +1,5 @@
 import { createContext } from "react";
-import { Product } from "../components/ProductCard";
+import { Product } from "../interfaces/interface";
 
 interface ProductContextProps {
   counter: number;
